@@ -1,0 +1,8 @@
+# place your own CA certificates or self-signed certificaes you had created in advance. these are only example files:
+# mydomain.crt
+-----BEGIN CERTIFICATE-----
+your public key goes here
+-----END CERTIFICATE-----
+
+# mydomain.key
+you private key goes here
